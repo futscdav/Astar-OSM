@@ -9,3 +9,5 @@ Build requires no dependencies
 Once running, the start node id and end node id are read from stdin and results are written to results.csv in the csv format
 
 Sample ids: 13823646 188755778
+
+To find nodes, use OpenStreetMaps, if more up-to-date data is required, you will have to regenerate the binary files.
